@@ -1,2 +1,2 @@
 # python_codebasics
-This is my python code excersise of youtuber codebasics. Welcome&lt;3
+This is my python code excersises of youtuber codebasics. Welcome&lt;3
